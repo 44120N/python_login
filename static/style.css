@@ -1,0 +1,28 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+
+html{
+    margin: 1%;
+}
+
+body{
+    font-size: 1em;
+    word-wrap: break-word;
+}
+table, tr, td, th{
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+th, td{
+    text-align: center;
+    width: calc(100%/6);
+    padding: 1%;
+}
+button a{
+    text-decoration: none;
+}
